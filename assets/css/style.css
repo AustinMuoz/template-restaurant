@@ -12,6 +12,15 @@ a {
   text-decoration: none;
 }
 
+.aditional-prices{
+  color: #F2A541;
+  font-weight: 700;
+}
+.aditional-description{
+  color: #313131;
+  font-weight: 700;
+}
+
 a:hover {
   color: #d9ba85;
   text-decoration: none;
